@@ -20,6 +20,7 @@ This is a simple Python script designed for **absolute beginners in stenography*
 It is also possible to run the script using your command prompt, cd to the directory of the main.py file and run
  ```bash
    python main.py
- ```
-![interface](https://github.com/user-attachments/assets/329d2470-f183-47ba-862e-e637d0b1a343)
+```
+![image](https://github.com/user-attachments/assets/b0a745c3-732b-4939-bcc4-6fdd6fc6aa80)
+
 
