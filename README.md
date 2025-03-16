@@ -7,7 +7,6 @@ This is a simple Python script designed for **absolute beginners in stenography*
 
 ## Features  
 - Beginner-friendly exercises for practicing stenography.  
-- Real-time feedback to improve accuracy.  
 - Simple and easy-to-use interface.  
 
 ## Getting Started  
