@@ -15,3 +15,6 @@ This is a simple Python script designed for **absolute beginners in stenography*
 3. **Run the script** using:  
    ```bash
    python main.py
+
+![interface](https://github.com/user-attachments/assets/329d2470-f183-47ba-862e-e637d0b1a343)
+
