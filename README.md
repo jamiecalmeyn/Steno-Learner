@@ -18,9 +18,9 @@ This is a simple Python script designed for **absolute beginners in stenography*
    ```
 4. **Optional** Run using cmd:
 It is also possible to run the script using your command prompt, cd to the directory of the main.py file and run
- ```bash
+   ```bash
    python main.py
-```
+   ```
 ![image](https://github.com/user-attachments/assets/b0a745c3-732b-4939-bcc4-6fdd6fc6aa80)
 
 
