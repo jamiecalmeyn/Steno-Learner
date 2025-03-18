@@ -60,7 +60,7 @@ def capture_plover_word():
 def main():
     print("Welcome to Steno Practice! Type the word for each key shown.")
     print("Press Ctrl+C to quit.\n")
-    
+    nIter = 0
     while True:
         item = random.randrange(len(steno))
         steno_key = steno[item]
@@ -75,9 +75,12 @@ def main():
         
        
         if any(result.lower() == output.lower() for output in expected_outputs):
-            print("Good!")
+            nIter +=1
+            print(f"Good! {nIter}")
+            
         else:
             print("Wrong.")
+            nIter = 0
         
         print()  
         time.sleep(0.2)  
