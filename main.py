@@ -4,6 +4,9 @@ import os
 import msvcrt
 import time
 
+__version__ = "0.1.1"
+
+
 steno_to_outputs = {
     "s (left)": ["is", "s"],        
     "t (left)": ["it", "t"],       
@@ -59,6 +62,7 @@ def capture_plover_word():
 
 def main():
     print("Welcome to Steno Practice! Type the word for each key shown.")
+    print(f"Version: {__version__}")
     print("Press Ctrl+C to quit.\n")
     nIter = 0
     while True:
